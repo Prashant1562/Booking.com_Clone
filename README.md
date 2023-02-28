@@ -1,7 +1,4 @@
 # Clone of booking.com
-<p align="center">
-  <img src="https://cdn.businesstraveller.com/wp-content/uploads/2021/10/booking.com_.jpeg" width="100%" title="hover text">
-</p>
 
 
 # Booking.com
